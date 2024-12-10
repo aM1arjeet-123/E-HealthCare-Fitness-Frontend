@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3030/api/v1"
+const BASE_URL = "https://e-healthcare-fitness-jw71.onrender.com/api/v1"
 
 // AUTH ENDPOINTS
 export const endpoints = {
